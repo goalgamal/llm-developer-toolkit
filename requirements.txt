@@ -1,0 +1,6 @@
+openai
+huggingface_hub
+gradio
+python-dotenv
+ipython
+requests
